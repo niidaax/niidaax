@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merhaba ben Nida 👋
 
 <!--
 **niidaax/niidaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
